@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d0d2857`](https://github.com/stdlib-js/stdlib/commit/d0d285717c4b2315c88c8d48617d838b9153b6c4) - **bench:** fix description and update variable names _(by Athan Reines)_
 -   [`ce80689`](https://github.com/stdlib-js/stdlib/commit/ce8068982729b231c972f33cb5e26f61c338a46d) - **feat:** add `blas/ext/base/ndarray/gtriu2tril` [(#14233)](https://github.com/stdlib-js/stdlib/pull/14233) _(by Kaustubh Patange, Athan Reines)_
 
 </details>
